@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+h1,h2{
+    font-family: 'Abril Fatface', cursive;
+}
+.intro-bg{
+    background-color: #08080c;
+}
+.about-bg, .portfolio-bg, .pricing-bg, .contact-bg{
+    background-color: #282828;
+}
+.service-bg{
+    background-image: url(/images/service-bg.png);
+}
+.testimonial-bg{
+    background-image: url(/images/testimonial-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card-img-top{
+    width:40%;
+    margin:auto;
+}
+.pricing-2-bg{
+    background-color:#d6c6b2;
+}
+.blog-bg, .footer-bg{
+    background-color:#333333;
+}
+.custom-bg{
+    background-color: #d6c6b2;
+}
+.custom-border{
+    border:1px solid #d6c6b2;
+}
+.custom-text{
+    color:#d6c6b2;
+}
